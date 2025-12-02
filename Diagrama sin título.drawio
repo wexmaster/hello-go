@@ -1141,6 +1141,11 @@
         <mxCell id="oAhXSZ_A9i2bs4-R9_IQ-43" edge="1" parent="1" source="oAhXSZ_A9i2bs4-R9_IQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oAhXSZ_A9i2bs4-R9_IQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oAhXSZ_A9i2bs4-R9_IQ-56" connectable="0" parent="oAhXSZ_A9i2bs4-R9_IQ-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SI" vertex="1">
+          <mxGeometry relative="1" x="-0.4969" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oAhXSZ_A9i2bs4-R9_IQ-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Contiene tracestate" vertex="1">
           <mxGeometry height="110" width="110" x="530" y="448" as="geometry" />
         </mxCell>
